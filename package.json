@@ -1,6 +1,6 @@
 {
-  "name": "date-format",
-  "version": "1.0.0",
+  "name": "date-format-sly",
+  "version": "1.0.1",
   "description": "datetime format",
   "main": "index.js",
   "scripts": {
