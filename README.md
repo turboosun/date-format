@@ -2,9 +2,9 @@
 日期时间格式化
 # install
 npm install -g date-format
-#github
+# github
 https://github.com/turboosun/date-format.git
-#usage
+# usage
 let formatter = require('./index')
 
 formatter.init('2018-6-9')
